@@ -40,6 +40,7 @@
 3. Item 3
 
 목록안에 목록을 넣으려면,
+
 1. Item 1
 2. Item 2
   1. Sub-item 1
@@ -50,4 +51,4 @@
 
 ![이미지 설명 글](https://i.imgur.com/81qyN1y.jpg)
 
-![컴퓨터에 있는 사진](assets\Capture001.png)
+![컴퓨터에 있는 사진](assets/Capture001.png)
