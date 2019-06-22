@@ -1,6 +1,6 @@
 # 심재욱 자기소개
 
-![컴퓨터에 있는 사진](assets/profile2.jpg)
+[컴퓨터에 있는 사진](assets/profile2.jpg)
 
 - 이름 : 심재욱  
 - 나이 : 26  
