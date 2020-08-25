@@ -476,6 +476,9 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  align-content: center;
+  vertical-align: middle;
+  border-radius: 15%;
 }
 
 .img-thumbnail {
@@ -7631,6 +7634,7 @@ button.bg-dark:focus {
 .mb-5,
 .my-5 {
   margin-bottom: 3rem !important;
+  vertical-align: middle !important;
 }
 
 .ml-5,
